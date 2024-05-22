@@ -1,0 +1,14 @@
+[project]
+name = "harronode"
+description = "Harronode is a custom node designed to build prompts easily for use with the Harrlogos SDXL LoRA. This Node simplifies the process of crafting prompts and makes all built in activation terms available at your fingertips."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/NotHarroweD/Harronode"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Harronode"
+Icon = ""
